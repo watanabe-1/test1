@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 jfoafoakfoak
+=======
+kdoakdpak
+>>>>>>> remotes/origin/test2
