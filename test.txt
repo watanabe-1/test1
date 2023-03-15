@@ -1,5 +1,13 @@
-<<<<<<< HEAD
+jfoafoakfoak
+
+koakodako<<<<<<< .mine
 jfoafoakfoak
 =======
 kdoakdpak
 >>>>>>> remotes/origin/test2
+=======
+koakodako
+
+
+
+>>>>>>> .theirs
