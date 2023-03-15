@@ -1,18 +1,3 @@
 jfoafoakfoak
-
-koakodako<<<<<<< .mine
-jfoafoakfoak
-=======
 kdoakdpak
->>>>>>> remotes/origin/test2
-=======
-koakodako
-
-
-
->>>>>>> .theirs
-
-sas
-
-
-8038282908981
+ma-zi
